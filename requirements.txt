@@ -3,7 +3,7 @@ Keras==2.2.0
 numpy
 opencv-python
 sklearn
-tensorflow==1.14.0
+tensorflow==2.9.3
 tensorflow-gpu==1.14.0
 imgaug
 tqdm
